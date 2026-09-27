@@ -1,0 +1,84 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Pineapple",
+            "email": "pineapple@example.com",
+            "avatar_url": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba",
+            "description": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae. The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple to Europe in the 17th century made it a significant cultural icon of luxury. Since the 1820s, pineapple has been commercially grown in greenhouses and many tropical plantations. Further, it is the third most important tropical fruit in world production. In the 20th century, Hawaii was a dominant producer of pineapples, especially for the US; however, by 2016, Costa Rica, Brazil, and the Philippines accounted for nearly one-third of the world's production of pineapples.\n Pineapples grow as a small shrub; the individual flowers of the unpollinated plant fuse to form a multiple fruit. The plant is normally propagated from the offset produced at the top of the fruit, or from a side shoot, and typically mature within a year.",
+            "hobby": "Tropical Gardening"
+        },
+        {
+            "id": 2,
+            "username": "Cherry",
+            "email": "cherry@example.com",
+            "avatar_url": "https://images.unsplash.com/photo-1528821128474-27f963b062bf",
+            "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit).\n Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus. The name 'cherry' also refers to the cherry tree and its wood, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in \"ornamental cherry\" or \"cherry blossom\". Wild cherry may refer to any of the cherry species growing outside cultivation, although Prunus avium is often referred to specifically by the name \"wild cherry\" in the British Isles.",
+            "hobby": "Baking"
+        },
+        {
+            "id": 3,
+            "username": "Orange",
+            "email": "orange@example.com",
+            "avatar_url": "https://images.unsplash.com/photo-1552841847-0e031d33a283",
+            "description": "Orange",
+            "hobby": "Juicing"
+        },
+        {
+            "id": 4,
+            "username": "Avocado",
+            "email": "avocado@example.com",
+            "avatar_url": "https://images.unsplash.com/photo-1519162808019-7de1683fa2ad",
+            "description": "Avocado",
+            "hobby": "Healthy Eating"
+        },
+        {
+            "id": 5,
+            "username": "Strawberry",
+            "email": "strawberry@example.com",
+            "avatar_url": "https://images.unsplash.com/photo-1560155069-ad79768f2666",
+            "description": "Strawberry",
+            "hobby": "Dessert Making"
+        },
+        {
+            "id": 6,
+            "username": "Apple",
+            "email": "apple@example.com",
+            "avatar_url": "https://images.unsplash.com/photo-1600423115367-87ea7661688f",
+            "description": "Apple",
+            "hobby": "Coding (Mac)"
+        },
+        {
+            "id": 7,
+            "username": "Pomegranate",
+            "email": "pomegranate@example.com",
+            "avatar_url": "https://images.unsplash.com/photo-1530730459653-e0edd4c6072e",
+            "description": "Pomegranate",
+            "hobby": "Salad Making"
+        },
+        {
+            "id": 8,
+            "username": "Papaya",
+            "email": "papaya@example.com",
+            "avatar_url": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe",
+            "description": "Papaya",
+            "hobby": "Tropical Trips"
+        },
+        {
+            "id": 9,
+            "username": "Pear",
+            "email": "pear@example.com",
+            "avatar_url": "https://images.unsplash.com/photo-1601876819102-99560f772713",
+            "description": "Pear",
+            "hobby": "Relaxing"
+        },
+        {
+            "id": 10,
+            "username": "Blueberry",
+            "email": "blueberry@example.com",
+            "avatar_url": "https://images.unsplash.com/photo-1600046438510-46961a84f4b2",
+            "description": "Blueberry",
+            "hobby": "Pancakes"
+        }
+    ]
+}
