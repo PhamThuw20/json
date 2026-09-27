@@ -31,6 +31,22 @@
             "avatar_url": "https://aeonmall-review-rikkei.cdn.vccloud.vn/website/21/articles/September2025/4f58acab-6f85-4b72-9a65-10f87ac201d7.jpg",
             "description": "Trà sữa là sự kết hợp hoàn hảo giữa vị đậm đà của trà và vị béo ngậy của sữa, thường đi kèm với các loại topping hấp dẫn như trân châu.",
             "hobby": "Tán gẫu cùng bạn bè"
+        },
+        {
+            "id": 5,
+            "username": "Trà Sen Vàng",
+            "email": "trasenvang@cafe.com",
+            "avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrk48DcTiwH07bP6Ets1oAxJEULOh2bx8wmHfufelJifhyeR8H3R5Drl9R&s=10",
+            "description": "Trà sen vàng là sự kết hợp tuyệt vời giữa trà ô long thanh mát, hạt sen bùi béo và lớp kem macchiato ngọt ngào.",
+            "hobby": "Thưởng thức sự thanh tao"
+        },
+        {
+            "id": 6,
+            "username": "Nước Ép",
+            "email": "nuocep@cafe.com",
+            "avatar_url": "https://dep.com.vn/wp-content/uploads/2019/07/nuoc_ep_trai_cay_co_thuc_su_tot-3.jpg",
+            "description": "Nước ép trái cây tươi nguyên chất cung cấp dồi dào vitamin và khoáng chất, giúp thanh lọc cơ thể và làm đẹp da.",
+            "hobby": "Sống khoẻ, Eat Clean"
         }
     ]
 }
